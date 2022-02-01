@@ -13,4 +13,3 @@ function factorial(n) {
     return f;
   }
 }
-factorial(5);
